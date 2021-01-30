@@ -1,6 +1,6 @@
 ## Joey Hornsby
 
-Currently training to become a junior developer at Makers Academy. After completing a PhD in French Literature, and working in publishing and then in policy before that, I wanted to come back to the professional world but bringing with me everything I loved about academic research; a sense of skill and constant learning, a level of commitment and self-driven development, and the joy of producing and perfecting something. On top of this, I wanted to find the same sense of participation in an active community engaged in the mutual discovery of new practices and ideas, with real-world application. This is what brought me to coding and software development.
+I am currently training to become a junior developer at Makers Academy. After completing a PhD in French Literature, and working in publishing and then in policy before that, I wanted to come back to the professional world but bringing with me everything I loved about academic research; a sense of skill and constant learning, a level of commitment and self-driven development, and the joy of producing and perfecting something. On top of this, I wanted to find the same sense of participation in an active community engaged in the mutual discovery of new practices and ideas, with real-world application. This is what brought me to coding and software development.
 
 ## Projects
 
@@ -73,4 +73,4 @@ My experience of academic and policy research has demanded a thorough and detail
 
 ## Hobbies
 
-I'm a hugely social person and I love getting involved in activities where I have the chance to meet and get to know new people, as well as hang out with the ones I already know! I spend a lot of time volunteering; I deliver parcels by bike for food bank, and help out at a riding club in Brixton for local youth (Ebony Horse Club). In my rare quiet moments, I read, watch films, and do cryptic crosswords - otherwise I love climbing, cycling, yoga and running. I'm currently on two half marathons, so that makes a full one, right? 
+I'm a hugely social person and I love getting involved in activities where I have the chance to meet and get to know new people, as well as hang out with the ones I already know! I spend a lot of time volunteering; I deliver parcels by bike for food bank, and help out at a riding club in Brixton for local youth (Ebony Horse Club). In my rare quiet moments, I read, watch films, and do cryptic crosswords - otherwise I love climbing, cycling, yoga and running. I'm currently on two half marathons, so that makes a full one, right?
