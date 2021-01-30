@@ -17,7 +17,7 @@ _Graduate Teaching Assistant and PhD in French Literature_
 - I completed my PhD with 3 years of full government (Arts and Humanities Research Council) funding, including a two month placement at an archive at the University of Austin with additional funding.
 - I ran undergraduate seminars on French language, political cinema, and critical theory
 - Presented work at conferences in London, Cambridge, Durham, Boston, and Paris.
-- I co-organised one graduate conference and one public conference; a book based on the papers given at the latter is forthcoming.
+- I co-organised one graduate conference at King's College London and one public conference at Birkbeck; a book based on the papers given at the latter is forthcoming.
 - PhD title 'The Work of the Impossible: Reading Transgression through Labour in Georges Bataille'
 
 **Department for Education** (November 2016 to July 2017)  
@@ -40,14 +40,13 @@ _Foreign Rights Assistant_
 
 I am a skilled communicator across a range of audiences, adept at taking on board the input of others but also diplomatically and confidently sharing my own ideas. Teaching seminar groups of up to 17 students at a time has necessitated the development of these skills. My earlier professional experience, meanwhile, has involved managing complex working relationships, communicating across internal teams and external stakeholders including members of the public. While working for a literary agency, furthermore, I mediated critical international relationships between clients and foreign publishers.
 
-
 #### Self-drive
 
 My PhD thesis is testament to my level of drive and self-motivation. I am a quick learner, adaptable and thrive under pressure; alongside my thesis I have sought opportunities to challenge myself, taking on teaching work and presenting opportunities. For example, in my second year I tutored for the Brilliant Club, a charity that places PhD tutors in state schools, and in my third year I completed a funded research placement in the US. Whilst at the Department for Education, furthermore, I spent two weeks working in the Permanent Secretary's office, experiencing an extremely fast-paced environment.
 
 #### Attention to detail
 
-My experience of academic and policy research has demanded a thorough and detail orientated approach. Planning and writing my thesis required a holistic logic and aptitude for problem-solving, to maintain coherence and readability throughout a 100,000 word document. I have also undertaken additional translation work, translating from French to English for a forthcoming publication; this necessitates both attention to detail and flexibility to ensure the brief is met without compromising the original material.
+My experience of academic and policy research has demanded a thorough and detail orientated approach. Planning and writing my thesis required a holistic logic and aptitude for problem-solving, to maintain coherence and readability throughout a 100,000 word document. I have also undertaken additional translation work, translating from French to English for a forthcoming publication; this necessitates both attention to detail and flexibility to ensure the brief is met without compromising the original material. I have experience of managing budgets from conference organisation in academia, applying public funds at the Department for Education and planning client trips at United Agents.
 
 ## Education
 
