@@ -6,8 +6,8 @@ I am currently training to become a junior developer at Makers Academy. After co
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Student directory**](https://github.com/jshorns/student-directory) | A command line app to manage student data.   | Ruby              |
+
 
 ## Experience
 
