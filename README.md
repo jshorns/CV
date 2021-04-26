@@ -78,4 +78,4 @@ My experience of academic and policy research has demanded a thorough and detail
 
 ## Hobbies
 
-I'm a hugely social person and I love getting involved in activities where I have the chance to meet and get to know new people, as well as hang out with the ones I already know! I spend a lot of time volunteering; I deliver parcels by bike for food bank, and help out at a riding club in Brixton for local youth (Ebony Horse Club). In my rare quiet moments, I read, watch films, and do cryptic crosswords - otherwise I love climbing, cycling, yoga and running. I'm currently on two half marathons, so that makes a full one, right?
+I'm a hugely social person and I love getting involved in activities where I have the chance to meet and get to know new people, as well as hang out with the ones I already know! I spend a lot of time volunteering; I deliver parcels by bike for a food bank, and help out at a riding club in Brixton for local youth (Ebony Horse Club). In my rare quiet moments, I read, watch films, and do cryptic crosswords - otherwise I love climbing, cycling, yoga and running. I'm currently on two half marathons, so that makes a full one, right?
