@@ -1,12 +1,18 @@
 ## Joey Hornsby
 
-I am currently training to become a junior developer at Makers Academy. After completing a PhD in French Literature, and working in publishing and then in policy before that, I wanted to come back to the professional world but bringing with me everything I loved about academic research; a sense of skill and constant learning, a level of commitment and self-driven development, and the joy of producing and perfecting something. On top of this, I wanted to find the same sense of participation in an active community engaged in the mutual discovery of new practices and ideas, with real-world application. This is what brought me to coding and software development.
+I've just graduated from the Makers Academy Software Development Bootcamp and am looking for my first role as a junior developer. After completing a PhD in French Literature, and working in publishing and then in policy before that, I wanted to come back to the professional world but bringing with me everything I loved about academic research; a sense of skill and constant learning, a level of commitment and self-driven development, and the joy of producing and perfecting something. On top of this, I wanted to find the same sense of participation in an active community engaged in the mutual discovery of new practices and ideas, with real-world application. This is what brought me to coding and software development. Having enjoyed both the more abstract , data-based side of things in back-end development, and the applied, visualised problem-solving element of the front-end, my preferred role would be full-stack.
+
+I've blogged about learning to code [here](https://joey-s-hornsby.medium.com/).
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Student directory**](https://github.com/jshorns/student-directory) | A command line app to manage student data.   | Ruby              |
+| **H-Appy** ([Front end](https://github.com/peter-james-allen/h-appy-client)/[Back End](https://github.com/AJ8GH/h-appy-server) | Makers final group project -An activity finder app in the style of a restaurant menu.   | MERN              |
+| [**Bank Tech Test**](https://github.com/jshorns/bank-tech-test) | Makers practice individual tech test to design banking software   | Ruby 
+| [**Bowling challenge**](https://github.com/jshorns/bowling-challenge) | Challenge to build a fully tested bowling scorecard in javascript  | Javascript   |
+| [**Acebook**](https://github.com/jshorns/acebook-challenge) | Makers group Rails challenge to design a facebook clone (we picked the space lizard theme)   | Ruby on Rails              |
+| [**Notes**](https://github.com/jshorns/notes) | Makers group challenge to build a single page web app in vanilla javascript, with individual styling  | Javascript            |
 
 
 ## Experience
