@@ -2,9 +2,11 @@
 
 I've just graduated from the Makers Academy Software Development Bootcamp and am looking for my first role as a junior developer. After completing a PhD in French Literature, and working in publishing and then in policy before that, I wanted to come back to the professional world but bringing with me everything I loved about academic research; a sense of skill and constant learning, a level of commitment and self-driven development, and the joy of producing and perfecting something. On top of this, I wanted to find the same sense of participation in an active community engaged in the mutual discovery of new practices and ideas, with real-world application. This is what brought me to coding and software development. I've enjoyed the abstract, hard logic side of things in back-end work (unsurprising for a philosophy grad, cryptic crossword fan and chess dabbler), and the more concrete, visualised, constructive element of the front-end. I'm therefore currently characterising myself as full-stack, but am open to most roles; my priority for now is to learn and become the best dev I can be.
 
+Check out my portfolio [here](https://jshorns.github.io/portfolio/).
+
 I've blogged about learning to code [here](https://joey-s-hornsby.medium.com/).
 
-## Projects
+## Projects (all available via portfolio)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
