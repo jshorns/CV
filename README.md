@@ -8,6 +8,8 @@ I've blogged about learning to code [here](https://joey-s-hornsby.medium.com/).
 
 ## Projects (all available via portfolio)
 
+Here's a list of a few of my highlighted projects. For a full list, and info on what I'm working on right now, go to my [portfolio](https://jshorns.github.io/portfolio/).
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **H-Appy** ([Front end](https://github.com/peter-james-allen/h-appy-client)/[Back End](https://github.com/AJ8GH/h-appy-server) | Makers final group project -An activity finder app in the style of a restaurant menu.   | MERN              |
@@ -15,6 +17,7 @@ I've blogged about learning to code [here](https://joey-s-hornsby.medium.com/).
 | [**Bowling challenge**](https://github.com/jshorns/bowling-challenge) | Challenge to build a fully tested bowling scorecard in javascript  | Javascript   |
 | [**Acebook**](https://github.com/jshorns/acebook-challenge) | Makers group Rails challenge to design a facebook clone (we picked the space lizard theme)   | Ruby on Rails              |
 | [**Notes**](https://github.com/jshorns/notes) | Makers group challenge to build a single page web app in vanilla javascript, with individual styling  | Javascript            |
+
 
 
 ## Experience
