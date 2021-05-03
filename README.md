@@ -67,6 +67,9 @@ My experience of academic and policy research has demanded a thorough and detail
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Final project across MongoDB, Express, React Native and Node
+-	Took on additional responsibility of mentoring 3 students in a subsequent cohort.
+
 
 #### King's College London (September 2013 to September 2014)
 
