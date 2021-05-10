@@ -36,7 +36,7 @@ _Graduate Teaching Assistant and PhD in French Literature_
 _Policy Advisor to the Teacher Workload and Development Team_
 
 - Supported the development of a new Workforce Planning Strategy, with the aim of deploying the teaching workforce nationally so as to maximise educational outcomes
-- Assisted in the production and management of online products, ministerial briefs and correspondence with the public, communicating across external and intewrnal stakeholders
+- Assisted in the production and management of online products, ministerial briefs and correspondence with the public, communicating across external and internal stakeholders
 - Two weeks spent understudying in Private Office
 - Responsible for general project and programme management. Experience of managing budgets, including public funds.
 
