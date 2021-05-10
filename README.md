@@ -65,13 +65,13 @@ I have a thorough and detail orientated approach. I am able to apply a bigger pi
 
 #### Makers Academy (February 2021 to May 2021)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- Final project across MongoDB, Express, React Native and Node
--	I took on the additional responsibility of mentoring 3 students in a subsequent cohort.
-
+-	Intensive software bootcamp covering principles of OOP, TDD, MVC, DDD
+-	Combination of self-led learning, some workshops and extensive pair programming with peers
+-	Experience through group work in Agile/XP working/programming practices
+-	Ruby, Rails, JavaScript, jQuery as well as final project in React Native across a MERN stack.
+-	Testing frameworks including RSpec, Jasmine, Capybara
+-	Final project across MongoDB, Express, React Native and Node
+-	Took on additional responsibility of mentoring 3 students in a subsequent cohort.
 
 #### King's College London (September 2013 to September 2014)
 
